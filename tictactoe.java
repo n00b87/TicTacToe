@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class test
+public class tictactoe
 {
 	public static String [][] ttt_board;
 	public static void init()
